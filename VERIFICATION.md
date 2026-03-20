@@ -1,6 +1,6 @@
 ✅ VERIFICATION.md  MCP Server Proof of Functionality
 
-Author: [YOUR FULL NAME]
+Author: Kurt Jakes Andrei T. Butay
 Date: March 2026
 Cohort: AI Agent Developer Bootcamp 2026
 
