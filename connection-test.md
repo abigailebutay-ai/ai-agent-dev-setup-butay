@@ -73,9 +73,8 @@ Expected Behavior
 README contents are fetched and displayed. New file appears on GitHub.com.
 
 Actual Result
-![alt text](image-14.png)
-![alt text](image-15.png)
-```
+![alt text](image-17.png)
+![alt text](image-18.png)
 
 ✅ PASS
 
