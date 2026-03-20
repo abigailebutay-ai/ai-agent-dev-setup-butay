@@ -73,8 +73,8 @@ Expected Behavior
 README contents are fetched and displayed. New file appears on GitHub.com.
 
 Actual Result
-```
-[REPLACE WITH SCREENSHOT showing GitHub tools working]
+![alt text](image-14.png)
+![alt text](image-15.png)
 ```
 
 ✅ PASS

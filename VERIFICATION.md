@@ -63,19 +63,15 @@ Prompts used:
 > "Create a file called hello-from-claude.txt in my repository with a message"
 
 Screenshot:
-```
-[REPLACE WITH SCREENSHOT showing Claude fetching and displaying
-the contents of your README.md via the GitHub MCP server]
-```
+![alt text](image-14.png)
+![alt text](image-15.png)
 
 Evidence of tool invocation: The file `hello-from-claude.txt` appears in your repository after Claude creates it — verifiable directly on GitHub.com.
 
 ---
 
 📊 Git Commit History
-```
-[REPLACE WITH OUTPUT OF: git log --oneline]
-```
+![alt text](image-16.png)
 
 ---
 
